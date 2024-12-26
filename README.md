@@ -5,3 +5,4 @@ Level: Easy
 
 Level: Medium
 1. Salsa Dance (25%)
+2. MisCloud
