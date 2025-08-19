@@ -2,6 +2,7 @@
 Level: Easy
 1. Takedown
 2. Compromised
+3. Interceptor
 
 Level: Medium
 1. Salsa Dance (25%)
